@@ -3,9 +3,6 @@ package silver.january2016;
 /**
  * Created by Mohammad on 2/20/2016.
  */
-/**
- * Created by Mohammad on 2/20/2016.
- */
 import java.io.*;
 import java.util.*;
 public class angry {
