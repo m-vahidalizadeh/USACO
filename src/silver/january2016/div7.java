@@ -7,6 +7,8 @@ import java.io.*;
 import java.util.*;
 public class div7 {
 	public static void main(String[] args) throws IOException {
+
+		//IO operations
 		BufferedReader br = new BufferedReader(new FileReader("div7.in"));
 		PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("div7.out")));
 		
