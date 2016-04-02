@@ -1,13 +1,15 @@
 package silver.january2016;
 
 /**
- * Created by Mohammad on 2/20/2016.
+ * Created by Mohammad on 4/1/2016.
  */
+
 import java.io.*;
 import java.util.*;
-public class angryUSACO {
-    public static void main(String[] args) throws IOException {
 
+public class angry {
+
+    public static void main(String[] args) throws IOException {
         try {
             //Reading the input file
             BufferedReader br = new BufferedReader(new FileReader("angry.in"));
@@ -55,6 +57,7 @@ public class angryUSACO {
                     min = mid+1;
                 }
             }
+
             pw.println(min);
             pw.close();
 
@@ -62,9 +65,6 @@ public class angryUSACO {
             System.out.println(e.toString());
         }
 
-
-
-
     }
-}
 
+}
