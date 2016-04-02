@@ -5,7 +5,7 @@ package silver.january2016;
  */
 import java.io.*;
 import java.util.*;
-public class angry {
+public class angryUSACO {
     public static void main(String[] args) throws IOException {
 
         try {
