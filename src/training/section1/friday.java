@@ -48,13 +48,13 @@ public class friday {
             }
         }
 
-        System.out.print(days[5]+" ");
-        System.out.print(days[6]+" ");
-        System.out.print(days[0]+" ");
-        System.out.print(days[1]+" ");
-        System.out.print(days[2]+" ");
-        System.out.print(days[3]+" ");
-        System.out.print(days[4]+" ");
+//        System.out.print(days[5]+" ");
+//        System.out.print(days[6]+" ");
+//        System.out.print(days[0]+" ");
+//        System.out.print(days[1]+" ");
+//        System.out.print(days[2]+" ");
+//        System.out.print(days[3]+" ");
+//        System.out.print(days[4]);
 
         out.print(days[5]+" ");
         out.print(days[6]+" ");
@@ -62,7 +62,8 @@ public class friday {
         out.print(days[1]+" ");
         out.print(days[2]+" ");
         out.print(days[3]+" ");
-        out.print(days[4]+" ");
+        out.print(days[4]);
+        out.println();
 
         out.close();
 
